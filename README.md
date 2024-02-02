@@ -1,1 +1,4 @@
 # AIML-2024
+[AIML A1]()
+[AIML A2]()
+[AIML A3]()
