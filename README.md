@@ -1,0 +1,19 @@
+AIML LAB-1
+
+
+AIML LAB-2
+
+
+AIML LAB-3
+
+
+AIML LAB-4
+
+
+AIML LAB-5
+
+
+AIML LAB-6
+
+
+AIML LAB-7
