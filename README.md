@@ -11,3 +11,5 @@
 [AIML LAB-6](https://github.com/codebot917/AIML-2024/blob/main/AIML%20LAB-06.ipynb)
 
 [AIML LAB-7](https://github.com/codebot917/AIML-2024/blob/main/AIML%20LAB-07.ipynb)
+
+[AIML LAB-8](https://github.com/codebot917/AIML-2024/blob/main/AIML%20LAB-08.ipynb)
